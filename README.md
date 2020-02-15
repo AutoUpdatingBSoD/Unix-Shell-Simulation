@@ -1,5 +1,7 @@
 # Unix Shell Simulation
 
+A Unix Shell simulation program written in C++ for a class
+
 Email me at mhammond9@radford.edu for the source, if you're an employer.
 
 RUSHell 02/26/2018
